@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to right, #79ec9d, #60b9f5);
+}
+
+.container1{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.01rem;
+  padding: 0.70rem 1rem;
+}

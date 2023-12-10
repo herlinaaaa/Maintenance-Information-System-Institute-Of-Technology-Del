@@ -1,0 +1,14 @@
+Panduan Instalasi Sistem Informasi Sarana dan Prasarana IT Del - Kelompok 12
+
+Tahapan Persiapan:
+1. Download aplikasi XAMPP terlebih dahulu.
+2. Setelah aplikasi XAMPP selesai didownload, RUN aplikasi dengan cara double click pada file yang telah didownload.
+3. Buka aplikasi XAMPP, dan klik start pada Apache dan MySQL.
+
+Tahapan Selanjutnya:
+1. Pastikan bahwa Anda telah mendowload atau memiliki artefak/folder Sistem Informasi Sarana dan Prasarana IT Del.
+2. Simpan folder/artefak Sistem Informasi Sarana dan Prasarana IT Del didalam folder htdocs yang ada di Drive C.
+3. Untuk mengimpor database kita bisa menggunakan phpMyAdmin, SQLYog, MySQL dan lain sebagianya. Namun, pada panduan ini akan menggunakan phpMyAdmin.
+   Di browser buka phpMyAdmin dengan mengetikkan "http://localhost/phpmyadmin/", lalu buat database baru dengan nama "sarpras" Kemudian pada database sarpras silakan klik Import yang ada pada menu. Masukkan database yang sudah ada di dalam folder Sistem Informasi Sarana dan Prasarana IT Del.
+4. Setelah database berhasil di impor, kita sudah dapat mengakses Sistem Informasi Sarana dan Prasarana IT Del dengan cara mengetikkan url "localhost" diikuti dengan letak folder/artefak Sistem Informasi Sarana dan Prasarana IT Del.
+	
